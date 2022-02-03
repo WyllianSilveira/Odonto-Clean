@@ -517,25 +517,25 @@ nav.show .icon-close{
 }
 
 input[type="text"].icon-user{
-  background: url("/imagens/user.png") no-repeat right;
+  background: url("imagens/user.png") no-repeat right;
   background-size: 1.3rem;
   background-position: 98%;
 }
 
 input[type="email"].icon-email{
-  background: url("/imagens/email.png") no-repeat right;
+  background: url("imagens/email.png") no-repeat right;
   background-size: 1.3rem;
   background-position: 98%;
 }
 
 input[type="phone"].icon-mobile{
-  background: url("/imagens/mobile.png") no-repeat right;
+  background: url("imagens/mobile.png") no-repeat right;
   background-size: 1.3rem;
   background-position: 98%;
 }
 
 [type="date"] {
-  background:#fff url("/imagens/calendar.png")  no-repeat right;
+  background:#fff url("imagens/calendar.png")  no-repeat right;
   background-size: 1.3rem;
   background-position: 98%;
 
@@ -553,7 +553,7 @@ input[type="phone"].icon-mobile{
   appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
-  background: url("/imagens/angle-down.png") no-repeat right;
+  background: url("imagens/angle-down.png") no-repeat right;
   background-size: 1.3rem;
   background-position: 98%;
 
