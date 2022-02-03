@@ -4,13 +4,13 @@
 
 
 <p align="center">
-  <img alt="OdontoClean" src="imagens/projetoImg.png" width="150%">
+  <img alt="OdontoClean" src="imagens/projetoImg.png" width="100%" height="50vh">
 </p>
 
 
 ## Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:  
 
 - HTML
 - CSS
