@@ -2,7 +2,7 @@
 # Odonto Clean
 
 <p align="center">
-  <img alt="OdontoClean" src="imagens/projetoImg.png" width="100%">
+  <img alt="OdontoClean" src="imagens/projetoImg.png" width="100%" height="600px">
 </p>
 
 
