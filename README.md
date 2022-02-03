@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="OdontoClean" src="imagens/projetoImg.png" width="100%">
+  <img alt="OdontoClean" src="imagens/projetoImg.png" width="150%">
 </p>
 
 
