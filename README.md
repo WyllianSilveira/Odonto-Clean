@@ -29,7 +29,7 @@ Utilitários
 
 ## Projeto 
 
-Página web responsiva de um consultorio odontológico fictício. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato, Agendamento e Footer.
+Página web responsiva de um consultorio odontológico fictício. Contém as seguintes seções: Cabeçalho, Inicio, Sobre, Tratamentos, Depoimentos, Contato, Agendamento e Rodapé.
 
 ## Licença
 
