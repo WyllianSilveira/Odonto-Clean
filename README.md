@@ -1,19 +1,24 @@
 
 # Odonto Clean
-<br>
+<br><br>
+
 
 <div>
-  <div style="display: flex;">
-    <img alt="OdontoCleanGif" src="imagens/Animação.gif" height="425" width=77%>
-    <img alt="OdontoCleanGifMobile" src="imagens/mobile-animacao.gif" height="425" width=22%>
-  </div>
+  <img alt="OdontoCleanGif" src="imagens/Animação.gif">
 </div>
-<br>
+<br><br>
 
+## 
+
+<br><br>
+<div align=center>
+  <img alt="OdontoCleanGifMobile" src="imagens/mobile-animacao.gif">
+</div>
+
+<br><br>
 
 
 ## Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:  
 
 - HTML
