@@ -12,7 +12,7 @@
 
 <br><br>
 <div align=center>
-  <img alt="OdontoCleanGifMobile" src="imagens/mobile-animacao.gif" width=30%>
+  <img alt="OdontoCleanGifMobile" src="imagens/mobile-animacao.gif" width=35%>
 </div>
 
 <br><br>
