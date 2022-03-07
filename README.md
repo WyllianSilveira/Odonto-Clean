@@ -43,3 +43,7 @@ Página web responsiva de um consultorio odontológico fictício. Contém as seg
 ## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/WyllianSilveira/Odonto-Clean/blob/master/LICENSE) para mais detalhes.
+
+## Link do projeto 
+
+<a href="https://wylliansilveira.github.io/Odonto-Clean/">👉 clique aqui</a>
