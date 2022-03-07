@@ -1,11 +1,12 @@
 
 # Odonto Clean
-<br>
+<br><br>
+
+<div>
+    <img alt="OdontoCleanGif" src="imagens/Animação.gif">
+</div>
 
 
-<p align="center">
-  <img alt="OdontoClean" src="imagens/projetoImg.png">
-</p>
 
 
 ## Tecnologias
