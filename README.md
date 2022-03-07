@@ -2,9 +2,9 @@
 # Odonto Clean
 <br>
 
-<div >
-  <div style="display: flex; align-items: center;">
-    <img alt="OdontoCleanGif" src="imagens/Animação.gif" height="425" width=77%  >
+<div>
+  <div style="display: flex;">
+    <img alt="OdontoCleanGif" src="imagens/Animação.gif" height="425" width=77%>
     <img alt="OdontoCleanGifMobile" src="imagens/mobile-animacao.gif" height="425" width=22%>
   </div>
 </div>
