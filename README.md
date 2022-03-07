@@ -4,7 +4,7 @@
 
 
 <div>
-  <img alt="OdontoCleanGif" src="imagens/Animação.gif" height=600>
+  <img alt="OdontoCleanGif" src="imagens/Animação.gif">
 </div>
 <br><br>
 
